@@ -46,24 +46,26 @@ Z세대의 경우, **자신이 만든 콘텐츠를 널리 확산시키고자 하
 예를 들어 '아디아디 챌린지'에 참여한 콘텐츠는 2.7만여 개로 '아며들었다'며 각종 숏폼 플랫폼을 달군 적이 있음.
 
 ### ✅ 핵심 기능
-**핵심 기능 1 - 총장님 꾸미기**
 <div>
-  <img style="width: 50%; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/cecebbd8-03bf-42a3-abc4-bcc4d2990975">
-  <div></div>
+  <div>
+    <h4>핵심 기능 1 - 총장님 꾸미기</h4>
+    <img style="width: 50%; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/cecebbd8-03bf-42a3-abc4-bcc4d2990975">
+    <div></div>
+  </div>
+  <div>
+    <h4>핵심 기능 2 - 자랑하기 & 다운로드</h4>
+    <img style="width: 50%; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/5da0892b-ff29-4eae-947e-635b297b8d62">
+    <div></div>
+  </div>
 </div>
 
-**핵심 기능 2 - 자랑하기 & 다운로드**
-<div>
-  <img style="width: 50%; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/5da0892b-ff29-4eae-947e-635b297b8d62">
-  <div></div>
-</div>
 
 ### ✅ 참여형 이벤트 진행
 베타 서비스 배포 기념으로, 참여형 이벤트를 진행하였습니다.   
-출시 알람을 등록한 유저를 대상으로, 총 30분에게 나작길 스티커를 제공하였습니다.   
+출시 알람을 등록한 유저를 대상으로, 총 30분께 나작길 스티커를 제공하였습니다.   
 이를 통해, **실제 유저의 서비스 사용 후기**를 접할 수 있었습니다.    
 
-<div align='center' style="display: flex; gap: 30px;">  
+<div align='center'>  
   <img style="width: 200px; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/ac147158-089a-425a-b930-369750d8dda1">
   <img style="width: 223px; padding: 0;" alt="image" src="https://github.com/najakgil/.github/assets/97885933/bc5d3c7a-5f75-43fc-af48-7b320d758e8f">
   <img style="width: 500px; padding: 0;" src="https://github.com/najakgil/.github/assets/97885933/b247b921-9070-477b-ac7d-5466e10c5cfb" />
